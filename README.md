@@ -73,12 +73,15 @@ The customer booking data (from `customer_booking.csv`) is used to predict wheth
 
 The project includes various visualizations, such as:
 - **Pie charts** for sentiment distribution.
+
 ![image](https://github.com/user-attachments/assets/6e41d5da-6500-4d76-b180-a8ea427ffcde)
 
 - **Bar charts** for sentiment count.
+  
 ![image](https://github.com/user-attachments/assets/f079c4cb-5cc3-4940-b344-086e13fd0395)
 
 - **Word clouds** for positive, negative, and neutral reviews.
+  
 ![image](https://github.com/user-attachments/assets/7fc1d3ca-abe4-4447-b52a-1dc8bbbcd560)
 
 ![image](https://github.com/user-attachments/assets/4b3a3dd7-abb9-40f8-84bc-6c061f9e9480)
